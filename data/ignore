@@ -1,0 +1,12 @@
+# API Keys or secrets
+alpaca_base_url.txt
+alpaca_key.txt
+alpaca_secret_key.txt
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings (optional)
+.vscode/
